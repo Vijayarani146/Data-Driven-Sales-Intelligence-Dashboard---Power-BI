@@ -67,6 +67,6 @@ Vijayarani T
 
 🐙 GitHub – Sales-Data-Analysis-PowerBI - https://github.com/Vijayarani146/
 
-# 📊 Kaggle – https://www.kaggle.com/code/vijayaranit/final-project-vijayarani-t/
+📊 Kaggle – https://www.kaggle.com/code/vijayaranit/final-project-vijayarani-t/
 
 # ✅ “Empowering smarter business decisions through interactive Power BI storytelling.”
